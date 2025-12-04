@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetworCat</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="operator">Operator name (e.g. T-Mobile, NTT Docomo)</string>
+    <string name="numeric">MCC/MNC (e.g. 310200, 26002)</string>
+    <string name="country_iso">ISO Alpha-2 country code (e.g. us, pl, jp)</string>
+    <string name="setup_warning_title">Settings Display</string>
+    <string name="setup_warning">You are seeing the default settings UI, which is used for initialization only. If you keep seeing this and your main menu doesn’t load, please report an issue.</string>
+</resources>

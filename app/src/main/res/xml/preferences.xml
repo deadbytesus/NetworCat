@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_country_iso"
+        android:title="Country ISO"
+        android:summary="2 letters (us, pl)"
+        android:inputType="text"
+        android:maxLength="2" />
+
+    <EditTextPreference
+        android:key="pref_numeric"
+        android:title="MCC/MNC"
+        android:summary="5-6 digits"
+        android:inputType="number"
+        android:maxLength="6" />
+
+    <EditTextPreference
+        android:key="pref_operator"
+        android:title="Operator"
+        android:inputType="text" />
+</PreferenceScreen>
